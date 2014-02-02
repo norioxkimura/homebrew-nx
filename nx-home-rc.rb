@@ -1,9 +1,9 @@
 require 'formula'
 
 class NxHomeRc < Formula
-  url 'http://blaise.pinklattice.com/homebrew/nx-home-rc_0.1.23.tar.gz'
+  url 'http://blaise.pinklattice.com/homebrew/nx-home-rc_0.1.29.tar.gz'
   homepage 'http://blaise.pinklattice.com/homebrew/nx-home-rc/'
-  sha1 'c57dbd3b217f52f2dc890e36014d7afdb014fc89'
+  sha1 'c6a7cdd8782f312063ec3ee549f4342e44dcbdd9'
 
   def install
     system "make PREFIX=#{prefix}"
