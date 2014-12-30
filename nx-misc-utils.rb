@@ -1,7 +1,7 @@
 require 'formula'
 
 class NxMiscUtils < Formula
-    url 'http://blaise.pinklattice.com/homebrew/nx-misc-utils_0.0.4.tar.gz'
+    url 'http://dl.dropboxusercontent.com/u/12364655/Homebrew/nx-misc-utils_0.0.4.tar.gz'
     homepage 'http://blaise.pinklattice.com/homebrew/nx-misc-utils/'
     md5 '03790ebbc768b55e35427d7db0ccee15'
 
